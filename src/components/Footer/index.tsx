@@ -51,7 +51,7 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="/"
+                    href="https://www.facebook.com/gecogames"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -73,7 +73,7 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="/"
+                    href="https://www.instagram.com/gecogamesstudios/"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -132,7 +132,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link
-                      href="/about"
+                      href="/store"
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
                       Store
