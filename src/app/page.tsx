@@ -13,7 +13,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Geco Games Studios",
-  description: "",
+  description: "Creating a memorable gaming experience involves engaging gameplay, immersive storytelling, captivating visuals, and memorable moments that resonate with players.",
   // other metadata
 };
 

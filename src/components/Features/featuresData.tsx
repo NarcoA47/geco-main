@@ -10,7 +10,7 @@ const featuresData: Feature[] = [
     ),
     title: "Clear Skies",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Welcome to the ultimate bubble-popping adventure in Clear Skies 3D - Bubble Pop! Immerse yourself in an exhilarating 3D first-person perspective as you embark on a thrilling journey through a world bursting with colorful bubbles.",
   },
   {
     id: 1,
@@ -19,7 +19,7 @@ const featuresData: Feature[] = [
     ),
     title: "Letter Loop",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Letter Loop is an engaging game available on the store that puts your word association skills to the test. Spin the wheel and match images to words from around the world.",
   },
   {
     id: 1,
@@ -28,7 +28,7 @@ const featuresData: Feature[] = [
     ),
     title: "Inshimu Two",
     paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
+      "Our Inshimu Villa is under attack by Sap Obstacles. They have wreaked havoc and caused destruction all around! The Bee Team is waiting for your orders. Please command the Stinger Cannons to protect Inshimu and engage in endless shooting to overcome these Sap Obstacles.",
   }
   // {
   //   id: 1,

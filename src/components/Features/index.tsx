@@ -9,7 +9,7 @@ const Features = () => {
         <div className="container">
           <SectionTitle
             title="Our Games On The Store"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            paragraph="Discover our exciting lineup of games available on both the Play Store and the App Store! 🎮 Dive into endless fun with our captivating titles. Download now and experience the thrill on your favorite device!"
             center
           />
 

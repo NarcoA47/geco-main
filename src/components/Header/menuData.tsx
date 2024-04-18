@@ -54,18 +54,18 @@ const menuData: Menu[] = [
         path: "/store",
         newTab: false,
       },
-      // {
-      //   id: 44,
-      //   title: "Blog Sidebar Page",
-      //   path: "/blog-sidebar",
-      //   newTab: false,
-      // },
-      // {
-      //   id: 45,
-      //   title: "Blog Details Page",
-      //   path: "/blog-details",
-      //   newTab: false,
-      // },
+      {
+        id: 64,
+        title: "Animations",
+        path: "/animations",
+        newTab: false,
+      },
+      {
+        id: 65,
+        title: "Streams",
+        path: "/streams",
+        newTab: false,
+      },
       // {
       //   id: 46,
       //   title: "Sign In Page",
