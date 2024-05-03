@@ -34,14 +34,14 @@ const AboutSectionTwo = () => {
                   Jampass Home is the inaugural version of the Jampass subscription service, designed to provide users with exclusive access to games developed by GECO Games LTD, the company behind the Jampass platform.
                 </p>
               </div>
-              <div className="mb-9">
+              {/* <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                  Education
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                   
                 </p>
-              </div>
+              </div> */}
               <div className="mb-1">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                   Merchant Store

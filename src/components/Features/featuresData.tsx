@@ -4,9 +4,7 @@ const featuresData: Feature[] = [
   {
     id: 1,
     icon: (
-      // <svg width="40" height="41" viewBox="0 0 40 41" className="fill-current">
-        <img src="https://iconape.com/wp-content/files/mv/291905/svg/291905.svg" />
-      // </svg>
+        <img src="https://png.pngtree.com/element_our/20190531/ourmid/pngtree-android-icon-image_1288986.jpg" />
     ),
     title: "Clear Skies",
     paragraph:
@@ -15,7 +13,7 @@ const featuresData: Feature[] = [
   {
     id: 1,
     icon: (
-      <img src="https://iconape.com/wp-content/files/mv/291905/svg/291905.svg" />
+      <img src="https://png.pngtree.com/element_our/20190531/ourmid/pngtree-android-icon-image_1288986.jpg" />
     ),
     title: "Letter Loop",
     paragraph:
@@ -24,7 +22,7 @@ const featuresData: Feature[] = [
   {
     id: 1,
     icon: (
-      <img src="https://e7.pngegg.com/pngimages/468/690/png-clipart-apple-logo-iphone-5c-iphone-x-iphone-8-apple-ios-apple-mac-icon-miscellaneous-heart.png"/>
+      <img src="https://www.freeiconspng.com/thumbs/ios-png/app-ios-png-4.png"/>
     ),
     title: "Inshimu Two",
     paragraph:
